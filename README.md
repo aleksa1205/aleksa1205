@@ -17,6 +17,7 @@
 
 #### DevOps
 <div display="flex">
+<img alt="Azure" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 <img alt="Docker" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img alt="Terraform" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
 </div>
@@ -37,6 +38,7 @@
 
 ### 📊 GitHub Stats
 <div>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksa1205&layout=compact&langs_count=6&theme=midnight-purple&hide_border=false" height="150" />
     <img alt="stats graph" src="https://github-readme-stats.vercel.app/api?username=aleksa1205&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" />
 </div>
 
