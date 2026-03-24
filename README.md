@@ -9,6 +9,8 @@
 [![Learning](https://skillicons.dev/icons?i=azure,linux)](https://skillicons.dev)
 
 ### Connect with me!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5A2D82?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksaperic/)
-
+<a href="https://www.linkedin.com/in/aleksaperic/">
+  <img src="https://cdn.simpleicons.org/linkedin/5A2D82" alt="LinkedIn" width="35" height="35"/>       
+</a>
+  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5A2D82&height=120&section=footer" alt="footer"/>
