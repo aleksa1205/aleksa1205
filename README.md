@@ -1,6 +1,8 @@
+<div align="center">
+
 # Aleksa Perić
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5A2D82&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5A2D82&height=120&section=header" alt="header"/>
 
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=azure,docker,terraform,cs,dotnet,js,ts,react)](https://skillicons.dev)
@@ -10,7 +12,9 @@
 
 ### Connect with me!
 <a href="https://www.linkedin.com/in/aleksaperic/">
-  <img src="https://cdn.simpleicons.org/linkedin/5A2D82" alt="LinkedIn" width="35" height="35"/>       
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
-  
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5A2D82&height=120&section=footer" alt="footer"/>
+
+</div>
