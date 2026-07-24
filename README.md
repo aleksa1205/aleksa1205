@@ -4,6 +4,8 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5A2D82&height=120&section=header" alt="header"/>
 
+Software Engineer at Vega IT, working with .NET, Azure, and React. Based in Serbia.
+
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=azure,docker,terraform,cs,dotnet,js,ts,react)](https://skillicons.dev)
 
